@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aleksey/MAI/DA/lab6/TBigInt.hpp
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+iomanip
+-
+cstdlib
+-
+
+/home/aleksey/MAI/DA/lab6/main.cpp
+iostream
+-
+string
+-
+TBigInt.hpp
+/home/aleksey/MAI/DA/lab6/TBigInt.hpp
+
