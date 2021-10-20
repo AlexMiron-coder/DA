@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lab4.dir/benchmark.cpp.o -o lab4 
